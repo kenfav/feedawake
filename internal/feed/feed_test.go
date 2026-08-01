@@ -5,6 +5,7 @@ import (
     "path/filepath"
     "strings"
     "testing"
+	"github.com/PuerkitoBio/goquery"
 )
 
 func TestGenerate(t *testing.T) {
